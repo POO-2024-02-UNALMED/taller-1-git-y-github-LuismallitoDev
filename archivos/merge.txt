@@ -1,3 +1,6 @@
+Se pudo crear la carpeta porque ya no está vacía. 
+Cuando creamos una carpeta vacia, para GitHub no representa ningún cambio.
+
 Mi nombre es Luis Mario Cardona Ramirez.
 Tengo 17 años de edad, cumplo el 25 de Abril 🎈🥳🪅
 Mi aspiracion con esta materia es poder poner en práctica uno de los paradigmas de 
