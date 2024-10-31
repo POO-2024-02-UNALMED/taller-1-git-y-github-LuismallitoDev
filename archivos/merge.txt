@@ -8,3 +8,8 @@ programación más usados en el mundo, adaptarme con el Lenguaje de programació
 (Cabe aclarar que he trabajado OOP con JavaScript y PHP) y sobre todo y logicamente,
 poder culminar exitosamente el curso de OOP con todos las habilidades básicas e intermedias
 desarrolladas y también con una nota satisfactoría. 🔥🔥💎💎✅✅
+
+¿Por qué es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+Hay que tener sumo cuidado porque al no haber comunicación, ni un buen uso de Git y GitHub, pueden ocurrir errores que puedan 
+retrasar el desarrollo del proyecto, perdida de algún tipo de datos o código, puede pasar que los formatos de algunos archivos
+no coincidan o también puede ocurrir que sea muy dificil rastrear los cambios hechos al proyecto si no se uso Git adecuadamente.
