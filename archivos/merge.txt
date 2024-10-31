@@ -1,0 +1,2 @@
+Se pudo crear la carpeta porque ya no está vacía. 
+Cuando creamos una carpeta vacia, para GitHub no representa ningún cambio.
